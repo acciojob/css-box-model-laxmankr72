@@ -2,10 +2,12 @@
 /* Your CSS Code here. */
 div{
 	display:flex;
+	width:320px;
 	border:1px solid black;
 }
 
 p{
+	display:inline;
 	width:300px;
 	background-color:lightblue;
 	border:15px solid blue;
